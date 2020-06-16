@@ -40,9 +40,9 @@ a:hover {
   margin-bottom: 32px !important;
 }
 
-.container:first-child {
+/* .container:first-child {
   margin-top: 0 !important;
-}
+} */
 
 .container h1,
 .container h2 {
@@ -55,8 +55,8 @@ a:hover {
 }
 
 .container h1 {
-  margin: 1em auto;
   text-align: center;
+  margin: 1em auto;
 }
 
 .container h2 {
